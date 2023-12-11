@@ -19,7 +19,7 @@ int a_operadores_aritmeticos() { //a_operadores_aritmeticos
 	double division = numero_1 / numero_2;
 	cout << "La división de " << numero_1 << " con " << numero_2 << " es igual a: " << division << endl;
 
-	int modulo = numero_1%numero_2;
+	int modulo = numero_1 % numero_2;
 	cout << "El módulo de " << numero_1 << " con " << numero_2 << " es igual a: " << modulo << endl;
 
 	return 0;
