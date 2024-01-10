@@ -26,7 +26,7 @@ int b_condicional_elseif() { //b_condicional_elseif
 	}
 
 	//2. Condicion ELSE IF (Forma 2).
-	if (numero_1 < numero_4) //Se evalúa la primera condición
+	if (numero_1 < numero_4) //Se evalúa la primera condición.
 		cout << "La primera condición se cumple" << endl; //Si la condición se cumplió, se ejecuta el código y se ignoran las demas condiciones, de no ser asi, se procede a evaluar la proxima condición.
 	else if (numero_1 < numero_3)
 		cout << "La segunda condición se cumple" << endl;
