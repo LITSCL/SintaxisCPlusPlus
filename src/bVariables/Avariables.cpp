@@ -15,14 +15,14 @@ int a_variables() { //a_variables
 	//Iniciación de Variables.
 	numero_1 = 10;
 	numero_2 = 10.3;
-	numero_3 = 10.3F;
+	numero_3 = 10.3f;
 	texto_1 = "Hola Mundo";
 	booleano_1 = true;
 
 	//Declaración e iniciación de variables en una sola línea.
 	int numero_1v2 = 10;
 	double numero_2v2 = 10.3;
-	float numero_3v2 = 10.3F;
+	float numero_3v2 = 10.3f;
 	string texto_1v2 = "Hola Mundo";
 	bool booleano_1v2 = true;
 
